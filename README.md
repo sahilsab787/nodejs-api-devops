@@ -67,7 +67,7 @@ Edit
 ## 🌐 Access
 
 After deployment on EC2, the Node.js API is accessible via:
-http://<EC2_PUBLIC_IP>:3000
+http://13.232.228.144/>:3000
 
 yaml
 Copy
